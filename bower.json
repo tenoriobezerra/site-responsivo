@@ -1,0 +1,21 @@
+{
+  "name": "HTML",
+  "homepage": "https://github.com/tenoriobezerra/site-responsivo",
+  "authors": [
+    "Antônio Tenório <tenoriobezerra@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
